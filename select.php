@@ -1,9 +1,9 @@
 <?php
 // 本番環境データベース接続情報
-$prod_db = "gs-oyuri_php_kadai2";
-$prod_host = "mysql648.db.sakura.ne.jp";
-$prod_id = "gs-oyuri";
-$prod_pw = "yuri_2406";
+$prod_db = "";
+$prod_host = "";
+$prod_id = "";
+$prod_pw = "";
 
 try {
     // PDOインスタンスの作成
